@@ -1,0 +1,11 @@
+[hosts]
+localhost=
+update.googleapis.com=
+ipm.adblockplus.dev=
+www.googleapis.com=
+content-autofill.googleapis.com=
+clients2.google.com=
+accounts.google.com=
+services.gismeteo.ru=
+safebrowsing.googleapis.com=
+clientservices.googleapis.com=

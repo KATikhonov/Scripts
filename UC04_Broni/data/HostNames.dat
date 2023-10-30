@@ -1,0 +1,11 @@
+[hosts]
+localhost=
+clientservices.googleapis.com=
+www.googleapis.com=
+clients2.google.com=
+update.googleapis.com=
+optimizationguide-pa.googleapis.com=
+services.gismeteo.ru=
+content-autofill.googleapis.com=
+mail.google.com=
+safebrowsing.googleapis.com=

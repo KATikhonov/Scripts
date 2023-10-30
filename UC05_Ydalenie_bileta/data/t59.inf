@@ -1,0 +1,11 @@
+[t59]
+FileName1=t59.xml
+URL1=https://services.gismeteo.ru/inform-service/inf_chrome/forecast/?city=5089&lang=en
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_59.xml
+RequestHeaderFile=t59_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t59_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

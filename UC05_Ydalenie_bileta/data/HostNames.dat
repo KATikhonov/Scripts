@@ -1,0 +1,14 @@
+[hosts]
+localhost=
+safebrowsing.google.com=
+update.googleapis.com=
+clients2.google.com=
+clientservices.googleapis.com=
+content-autofill.googleapis.com=
+optimizationguide-pa.googleapis.com=
+www.googleapis.com=
+ssl.google-analytics.com=
+accounts.google.com=
+ipm.adblockplus.dev=
+services.gismeteo.ru=
+safebrowsing.googleapis.com=

@@ -1,0 +1,16 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache,max-age=3600
+Content-Length: 439
+Content-Type: application/json
+Content-Encoding: gzip
+Expires: Sun, 22 Oct 2023 20:51:36 GMT
+ETag: "yKFWLaCxbu6bw+z1FJQUaVWV133u6PDIAWRgNPg78rg="
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Report-To: {"group":"NelEcsUpload1","max_age":604800,"endpoints":[{"url":"https://ecs.nel.measure.office.net?TenantId=Edge&DestinationEndpoint=Edge-Prod-STO&FrontEnd=AFD"}],"include_subdomains":true}
+NEL: {"report_to":"NelEcsUpload1","max_age":604800,"include_subdomains":true,"failure_fraction":1.0,"success_fraction":0.01}
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 28C4EAB9FE254080B7A4A163E0274F1D Ref B: STOEDGE0917 Ref C: 2023-10-22T19:51:36Z
+Date: Sun, 22 Oct 2023 19:51:35 GMT
+

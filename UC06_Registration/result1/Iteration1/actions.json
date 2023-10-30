@@ -1,0 +1,122 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: webtours_2",
+                "infFile": "t1.inf",
+                "time": 1698672002408
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: header.html_2",
+                "infFile": "t2.inf",
+                "time": 1698672002472
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: welcome.pl_2",
+                "infFile": "t3.inf",
+                "time": 1698672002612
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: home.html_2",
+                "infFile": "t4.inf",
+                "time": 1698672002695
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: nav.pl_2",
+                "infFile": "t5.inf",
+                "time": 1698672002853
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: login.pl",
+                "infFile": "t6.inf",
+                "time": 1698672003077
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Submit Data: login.pl_2",
+                "infFile": "t7.inf",
+                "time": 1698672003340
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: button_next.gif_2",
+                "infFile": "t8.inf",
+                "time": 1698672003489
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: nav.pl_3",
+                "infFile": "t9.inf",
+                "time": 1698672003634
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: login.pl_3",
+                "infFile": "t10.inf",
+                "time": 1698672004053
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: SignOff Button",
+                "infFile": "t11.inf",
+                "time": 1698672004200
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: nav.pl_4",
+                "infFile": "t12.inf",
+                "time": 1698672004341
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: home.html_3",
+                "infFile": "t13.inf",
+                "time": 1698672004407
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC06_01_Home_page",
+                "rawStartTime": 1698672002146,
+                "rawEndTime": 1698672002884,
+                "thinkTime": 0.0,
+                "wastedTime": 0.14412832260131837
+            },
+            {
+                "transactionName": "UC06_02_Knopka_reg",
+                "rawStartTime": 1698672002905,
+                "rawEndTime": 1698672003193,
+                "thinkTime": 0.0,
+                "wastedTime": 0.017156600952148439
+            },
+            {
+                "transactionName": "UC06_03_Vvod_reg_dannykh",
+                "rawStartTime": 1698672003209,
+                "rawEndTime": 1698672003349,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006900310516357422
+            },
+            {
+                "transactionName": "UC06_04_next",
+                "rawStartTime": 1698672003381,
+                "rawEndTime": 1698672004064,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04527139663696289
+            },
+            {
+                "transactionName": "UC06_05_Exit",
+                "rawStartTime": 1698672004096,
+                "rawEndTime": 1698672004411,
+                "thinkTime": 0.0,
+                "wastedTime": 0.017150402069091798
+            }
+        ]
+    }
+]

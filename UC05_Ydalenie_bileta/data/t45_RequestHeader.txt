@@ -1,0 +1,12 @@
+POST /safebrowsing/clientreport/crx-telemetry HTTP/1.1
+Host: safebrowsing.google.com
+Connection: keep-alive
+Content-Length: 1700
+Content-Type: application/octet-stream
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Cookie: NID=511=ubtQKEOGBgMqq9yRUn020wijHn1ngpxZvwF9IPBmwYcliccoSEBYjRNicszqFe6qwvt8syXN-BsFiInjxRakJvQ2YA_SNrnh71ZFWq2g7WefEq7xSWtHwIvHTFc3Fr6z7SNCLGDWstfrAmWIIe3wWfx8piUZqpzOYwdhnciEXr0
+

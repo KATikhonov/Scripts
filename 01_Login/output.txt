@@ -1,0 +1,70 @@
+Virtual User Script started at: 30.10.2023 16:33:03
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Crashpad/0.8.0 WinHTTP/10.0.19041.3570 Windows_NT/10.0.19041.3570 (x64)  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\admin\Documents\VuGen\Scripts\01_Login\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 2  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(4): Notify: Transaction "UC01_Login" started.
+Action.c(6): Notify: Transaction "UC01_01_Home_page" started.
+Action.c(8): web_custom_request("webtours") started  	[MsgId: MMSG-26355]
+Action.c(8): web_custom_request("webtours") was successful, 366 body bytes, 298 header bytes  	[MsgId: MMSG-26386]
+Action.c(18): web_set_sockets_option started  	[MsgId: MMSG-26355]
+Action.c(18): web_set_sockets_option was successful  	[MsgId: MMSG-26392]
+Action.c(21): web_custom_request("hp_logo.png") started  	[MsgId: MMSG-26355]
+Action.c(21): web_custom_request("hp_logo.png") was successful, 601 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(30): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(30): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(33): web_custom_request("home.html") started  	[MsgId: MMSG-26355]
+Action.c(33): Registered web_reg_find successful for "Text=Welcome to the Web Tours site." (count=1)  	[MsgId: MMSG-26364]
+Action.c(33): web_custom_request("home.html") was successful, 1361 body bytes, 298 header bytes  	[MsgId: MMSG-26386]
+Action.c(43): web_custom_request("webtours.png") started  	[MsgId: MMSG-26355]
+Action.c(43): web_custom_request("webtours.png") was successful, 4187 body bytes, 299 header bytes  	[MsgId: MMSG-26386]
+Action.c(55): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(55): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(63): web_custom_request("nav.pl") started  	[MsgId: MMSG-26355]
+Action.c(63): web_custom_request("nav.pl") was successful, 1449 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(73): web_custom_request("mer_login.gif") started  	[MsgId: MMSG-26355]
+Action.c(73): web_custom_request("mer_login.gif") was successful, 679 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(85): web_custom_request("JSFormSubmit.js") started  	[MsgId: MMSG-26355]
+Action.c(85): web_custom_request("JSFormSubmit.js") was successful, 291 body bytes, 310 header bytes  	[MsgId: MMSG-26386]
+Action.c(96): Notify: Transaction "UC01_01_Home_page" ended with a "Pass" status (Duration: 0.5392 Wasted Time: 0.1604).
+Action.c(99): Notify: Transaction "UC01_02_Login" started.
+Action.c(105): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(105): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(110): web_custom_request("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(110): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+Action.c(110): web_custom_request("login.pl") was successful, 481 body bytes, 375 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(121): web_custom_request("login.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(121): web_custom_request("login.pl_2") was successful, 917 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(131): web_custom_request("nav.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(131): web_custom_request("nav.pl_2") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(142): web_custom_request("itinerary.gif") started  	[MsgId: MMSG-26355]
+Action.c(142): web_custom_request("itinerary.gif") was successful, 733 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(151): web_custom_request("flights.gif") started  	[MsgId: MMSG-26355]
+Action.c(151): web_custom_request("flights.gif") was successful, 726 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(162): web_custom_request("in_home.gif") started  	[MsgId: MMSG-26355]
+Action.c(162): web_custom_request("in_home.gif") was successful, 688 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(173): web_custom_request("signoff.gif") started  	[MsgId: MMSG-26355]
+Action.c(173): web_custom_request("signoff.gif") was successful, 751 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(183): Notify: Transaction "UC01_02_Login" ended with a "Pass" status (Duration: 0.5320 Wasted Time: 0.0498).
+Action.c(187): Notify: Transaction "UC01_03_EXIT" started.
+Action.c(192): web_custom_request("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(192): web_custom_request("welcome.pl_2") was successful, 686 body bytes, 394 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(202): web_custom_request("home.html_2") started  	[MsgId: MMSG-26355]
+Action.c(202): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(202): web_custom_request("home.html_2") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+Action.c(211): web_custom_request("nav.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(211): web_custom_request("nav.pl_3") was successful, 1620 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(221): Notify: Transaction "UC01_03_EXIT" ended with a "Pass" status (Duration: 0,3112 Wasted Time: 0,0176).
+Action.c(223): Notify: Transaction "UC01_Login" ended with a "Pass" status (Duration: 1,4452 Wasted Time: 0,2277).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

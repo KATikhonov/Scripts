@@ -1,0 +1,11 @@
+[t121]
+FileName1=t121_success.txt
+URL1=http://detectportal.firefox.com/success.txt?ipv4
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_121.xml
+RequestHeaderFile=t121_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t121_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

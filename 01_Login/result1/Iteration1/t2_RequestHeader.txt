@@ -1,0 +1,9 @@
+GET /WebTours/home.html HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/welcome.pl?signOff=true
+User-Agent: Crashpad/0.8.0 WinHTTP/10.0.19041.3570 Windows_NT/10.0.19041.3570 (x64)
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+

@@ -1,0 +1,92 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: webtours",
+                "infFile": "t1.inf",
+                "time": 1698662291684
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: home.html",
+                "infFile": "t2.inf",
+                "time": 1698662291930
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: nav.pl",
+                "infFile": "t4.inf",
+                "time": 1698662292571
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: login.pl",
+                "infFile": "t5.inf",
+                "time": 1698662293068
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: login.pl_2",
+                "infFile": "t6.inf",
+                "time": 1698662293279
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: nav.pl_2",
+                "infFile": "t7.inf",
+                "time": 1698662293453
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t9.inf",
+                "time": 1698662294182
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Submit Form: itinerary.pl",
+                "infFile": "t10.inf",
+                "time": 1698662294410
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC05_01_Home_page",
+                "rawStartTime": 1698662291298,
+                "rawEndTime": 1698662292695,
+                "thinkTime": 0.0,
+                "wastedTime": 0.21611809730529786
+            },
+            {
+                "transactionName": "UC05_02_Login",
+                "rawStartTime": 1698662292729,
+                "rawEndTime": 1698662293826,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0468144416809082
+            },
+            {
+                "transactionName": "UC05_03_Broni",
+                "rawStartTime": 1698662293859,
+                "rawEndTime": 1698662294189,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01648092269897461
+            },
+            {
+                "transactionName": "UC05_04_Delete",
+                "rawStartTime": 1698662294221,
+                "rawEndTime": 1698662294425,
+                "thinkTime": 0.0,
+                "wastedTime": 0.006672859191894531
+            },
+            {
+                "transactionName": "UC05_Ydalenie_bileta",
+                "rawStartTime": 1698662291283,
+                "rawEndTime": 1698662294457,
+                "thinkTime": 0.0,
+                "wastedTime": 0.2860863208770752
+            }
+        ]
+    }
+]

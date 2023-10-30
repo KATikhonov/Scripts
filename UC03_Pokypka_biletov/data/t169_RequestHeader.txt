@@ -1,0 +1,13 @@
+POST /safebrowsing/clientreport/crx-telemetry HTTP/1.1
+Host: safebrowsing.google.com
+Connection: keep-alive
+Content-Length: 1700
+Authorization: Bearer ya29.a0AfB_byD905GjjZXQyNtSr1FO5-lJIwNpsveMrGpKOuX0tK4tc3BH24xsSTCDcxumr9i2thxON9TNcy3ZZ60zrTTWfUrh6V1W3WYtyss4mezbV7sggeMsnIe6ZygbMqBBHmkzK5F5r2V0tIg_icMqV53pWlaJ5qUAtIWhndwAEZnu0N37Tw_G3XHoKbj-CGZ9hCUhk0KgG0QkeZMNPUD_38lz5dA77XHbHdn0wwU89YEFP1bvAUuUoU_DNhWoBc0BVPF354nVW-IaCgYKASASARMSFQGOcNnC9FtN4dCQmhXYuwW1otjcrw0274
+Content-Type: application/octet-stream
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Dest: empty
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Cookie: NID=511=IwjLKFeEU0ujaX1Ae_WghouYuzYH6SZxViHRo6M9f1cQfDXOsjad7OXNHJWyfqLAPq5oEAndQiZzXpVOawUdJ3Dwjn0Gg2iVCT0_gdlI8eaOybysc8yQWtJYMOxWgmz7Pcim6a09Jm-cE36JB7yeXkuZgb35XQGoCICsCmYkBkw
+

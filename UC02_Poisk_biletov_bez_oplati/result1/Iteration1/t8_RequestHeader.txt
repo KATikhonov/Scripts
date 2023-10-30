@@ -1,0 +1,10 @@
+GET /cgi-bin/login.pl?intro=true HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/login.pl
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1698665475&MSO_JSFormSubmit1&on&MSO_ServerErrorsProb&50&MSO_ServerLoadProb&50; MTUserInfo=firstName&Bon&address2&Boston&username&Bon&hash&14&lastName&Ton%0A&address1&Black%20street&creditCard&&expDate&%0A
+

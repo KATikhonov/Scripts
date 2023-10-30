@@ -1,0 +1,6 @@
+{
+  "access_token": "ya29.a0AfB_byCY0n3oFLTNd0doX0ykBJYGfe6H8nP-fGoNrFw2PZ14y5nfjU0nAKX3YCWdS9nxeQFVX92dLjXD9b8j7WuCDrIeVqZQnppL4GVYwVYRq83khaDjvyF2fe128KcPK2cgcAcgIN9FCQN0Ar2coaniP63ZdzQQnkugq5AX1ivvZ5eY-ykzKsD__DNvKbc3wbYvUrGvP9V62EH460i7dZI10ap-cToVIB-CIf1yyydCWK4YlTr8iy8jL1pzwbdA0NnNSmDHiXOmaCgYKAQ8SARMSFQGOcNnCGMFKhIoNQ7nOJovlbIWfdg0275",
+  "expires_in": 3599,
+  "scope": "https://www.googleapis.com/auth/android_checkin https://www.googleapis.com/auth/gcm",
+  "token_type": "Bearer"
+}

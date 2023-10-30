@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Mon, 30 Oct 2023 11:48:57 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Sun, 29 Oct 2023 11:48:58 GMT
+Set-Cookie: MTUserInfo=firstName&Bon&username&Bon&address2&Boston&hash&14&address1&Black%20street&lastName&Ton%0A; path=/
+Keep-Alive: timeout=5, max=79
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

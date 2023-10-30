@@ -1,0 +1,753 @@
+[API Trapper      (3c20:36dc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (325c:1234)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (40f0:1358)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (40f0:29a4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (40f0:29a4)] Load Network Traffic Analyzers:
+[Network Analyzer (40f0:29a4)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (40f0:29a4)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (40f0:29a4)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (40f0:29a4)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (40f0:29a4)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (40f0:29a4)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (40f0:29a4)] ------------------------------------------------------------------------------------------
+[Network Analyzer (40f0:1d7c)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[API Trapper      ( df4: af4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 108.177.14.188:5228   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (40f0:4294)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:20c0)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 173.194.73.93:443   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /webtours/"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  3) Client -> Server @ : 667 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  3) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (40f0:3da0)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 74.125.131.95:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.161.94:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (40f0:2238)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 173.194.222.102:443   (Service=)  (Sid=  7)  PROXIED!
+[Net An. Error    (40f0:4294)] SSLAccept(ssl_id = 1937397071808 = 000001C315DD3FC0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:4294)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:46c0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:20c0)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 173.194.222.95:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:3da0)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (40f0:11ac)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 74.125.131.95:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:3dc8)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 34.36.124.104:443   (Service=)  (Sid= 10)  PROXIED!
+[Net An. Error    (40f0:2238)] SSLAccept(ssl_id = 1937397812352 = 000001C315E88C80) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:2238)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:136c)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (40f0:315c)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid:  3) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.161.84:443   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer (40f0:46c0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (40f0:1d7c)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=118"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  1) Client -> Server @ : 469 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  1) Server -> Client : 206 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:45a4)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid:  6) Connection Terminated (by Client)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:136c)] SSLAccept(ssl_id = 1937398420656 = 000001C315F1D4B0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:136c)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 595 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /safebrowsing/clientreport/crx-telemetry"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 1700 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Net An. Error    (40f0:11ac)] SSLAccept(ssl_id = 1937398154400 = 000001C315EDC4A0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:11ac)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:3dc8)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (40f0:1d7c)]   (Sid:  7) Connection Terminated (by Server)
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Client -> Server @ : 715 bytes (Service=HTTP)
+[Network Analyzer (40f0:315c)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (40f0:1d7c)] "POST /api/stats"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 10) Client -> Server @ : 1194 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Server -> Client : 321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Server -> Client : 1088 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 10) Server -> Client : 283 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.201.9:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (40f0:45a4)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (40f0:1d7c)]   (Sid: 11) Client -> Server @ : 2577 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /ListAccounts?gpsia=1&source=ChromiumBrowser&json=standard"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 11) Client -> Server @ : 1 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /webtours/header.html"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 14) Client -> Server @ : 704 bytes (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Client -> Server @ : 823 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 14) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Server -> Client : 1882 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (40f0:3ba8)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (40f0:1d7c)]   (Sid: 11) Server -> Client : 2189 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 11) Server -> Client : 434 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 11) Server -> Client : 70 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 11) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 14) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 12) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 108.177.14.188:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 940 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /safebrowsing/clientreport/crx-telemetry"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 1729 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/home.html"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 16) Client -> Server @ : 819 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 16) Server -> Client : 1660 bytes  (Service=HTTP)
+[Net An. Error    (40f0:3ba8)] SSLAccept(ssl_id = 1937397329328 = 000001C315E12DB0) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:3ba8)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:2bd0)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Server -> Client : 321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 13) Connection Terminated (by Client)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 16) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 142.250.150.102:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:2bd0)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (40f0:1d7c)] "GET /WebTours/JSFormSubmit.js"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Client -> Server @ : 654 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 15) Client -> Server @ : 191 bytes (SSL)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 19) Client -> Server @ : 719 bytes (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /webtours/images/webtours.png"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 20) Client -> Server @ : 716 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Server -> Client : 602 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 19) Server -> Client : 977 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 20) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (40f0:31e0)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid: 15) Server -> Client : 1 bytes (SSL)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.161.94:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 940 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /safebrowsing/clientreport/crx-telemetry"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 2581 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Client -> Server @ : 715 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 15) Server -> Client : 66 bytes (SSL)
+[Network Analyzer (40f0:1d7c)]   (Sid: 15) Server -> Client : 12 bytes (SSL)
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (40f0:31e0)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (40f0:46fc)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Server -> Client : 321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /favicon.ico"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Client -> Server @ : 688 bytes (Service=HTTP)
+[Network Analyzer (40f0:46fc)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 940 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /service/update2/json?cup2key=13:tRxayn5GgtvJFx_XMSPCRB5OlhcPq4uOCovDFA5deFg&cup2hreq=4b0e6c7e4eb5710e6ae3ea3d80efd0a001e0e5835741dfabc8a96a66f214ae2f"
+[Network Analyzer (40f0:1d7c)]   (Sid: 21) Client -> Server @ : 1332 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /safebrowsing/clientreport/crx-telemetry"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 1700 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 21) Client -> Server @ : 8375 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (40f0:48f0)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:48f0)] SSLAccept(ssl_id = 1937400721440 = 000001C31614F020) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:48f0)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Server -> Client : 321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 940 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /safebrowsing/clientreport/crx-telemetry"   
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Client -> Server @ : 1729 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 21) Server -> Client : 1145 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 21) Server -> Client : 1026 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 21) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Server -> Client : 321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (40f0:2ed8)]   (Sid: 24) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:2ed8)] SSLAccept(ssl_id = 1937400721440 = 000001C31614F020) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:2ed8)]   (Sid: 24) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (40f0:487c)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:487c)] SSLAccept(ssl_id = 1937400764560 = 000001C316159890) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:487c)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:1d7c)]   (Sid: 19) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 20) Connection Terminated (by Server)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.201.9:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (40f0:2634)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:2634)] SSLAccept(ssl_id = 1937400721440 = 000001C31614F020) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:2634)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 26) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (40f0:3784)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:3784)] SSLAccept(ssl_id = 1937400752240 = 000001C316156870) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:3784)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.201.9:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (40f0:18c4)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:18c4)] SSLAccept(ssl_id = 1937400721440 = 000001C31614F020) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:18c4)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0: 870)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0: 870)] SSLAccept(ssl_id = 1937400770720 = 000001C31615B0A0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0: 870)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[User action                 ] StartTransactionEvent UC01_01_Home_page [Network Analyzer (40f0:1d7c)]   (Sid: 28) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 29) Connection Terminated (by Client)
+[Web Request      (40f0:1d7c)] "GET /webtours/"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 23) Client -> Server @ : 888 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 23) Server -> Client : 194 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /webtours/header.html"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 23) Client -> Server @ : 899 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 23) Server -> Client : 193 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 23) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Client -> Server @ : 810 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Server -> Client : 1088 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Client -> Server @ : 823 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Server -> Client : 1884 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 30) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.201.9:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (40f0:40fc)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:40fc)] SSLAccept(ssl_id = 1937400764560 = 000001C316159890) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:40fc)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0: b20)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0: b20)] SSLAccept(ssl_id = 1937400758400 = 000001C316158080) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0: b20)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /WebTours/home.html"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 33) Client -> Server @ : 919 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 33) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 32) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent UC01_01_Home_page [Network Analyzer (40f0:1d7c)]   (Sid: 33) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent UC01_02_Login [API Trapper      (2224:20f8)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.201.9:443   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (40f0:3424)]   (Sid: 34) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 35)  PROXIED!
+[Net An. Error    (40f0:3424)] SSLAccept(ssl_id = 1937400727600 = 000001C316150830) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:3424)]   (Sid: 34) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Web Request      (40f0:1d7c)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Client -> Server @ : 1075 bytes (Service=HTTP)
+[Network Analyzer (40f0:2a58)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Server -> Client : 864 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Error    (40f0:2a58)] SSLAccept(ssl_id = 1937400752240 = 000001C316156870) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:2a58)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Client -> Server @ : 945 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 34) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 35) Connection Terminated (by Client)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 36) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 37)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 37) Client -> Server @ : 940 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 37) Server -> Client : 1153 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 37) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 37) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 38)  PROXIED!
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 42)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 38) Client -> Server @ : 854 bytes (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 40) Client -> Server @ : 856 bytes (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 41) Client -> Server @ : 854 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 38) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 41) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 42) Client -> Server @ : 854 bytes (Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:1d7c)]   (Sid: 40) Server -> Client : 1031 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 42) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (40f0:3b80)]   (Sid: 39) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 173.194.73.95:443   (Service=)  (Sid= 43)  PROXIED!
+[Net An. Error    (40f0:3b80)] SSLAccept(ssl_id = 1937400733760 = 000001C316152040) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:3b80)]   (Sid: 39) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1070)]   (Sid: 43) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:1d7c)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 40) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 38) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 41) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 42) Connection Terminated (by Server)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 45)  PROXIED!
+[Net An. Error    (40f0:1070)] SSLAccept(ssl_id = 1937400758400 = 000001C316158080) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:1070)]   (Sid: 43) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:3f04)]   (Sid: 44) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:3f04)] SSLAccept(ssl_id = 1937400764560 = 000001C316159890) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:3f04)]   (Sid: 44) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 39) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 43) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 44) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent UC01_02_Login [User action                 ] StartTransactionEvent UC01_03_Flights [Web Request      (40f0:1d7c)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Client -> Server @ : 979 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Client -> Server @ : 982 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 45) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 46)  PROXIED!
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 46) Client -> Server @ : 983 bytes (Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer (40f0: 81c)]   (Sid: 47) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 48) Client -> Server @ : 860 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 48) Server -> Client : 1024 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 48) Client -> Server @ : 854 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 48) Server -> Client : 985 bytes  (Service=HTTP)
+[Net An. Error    (40f0: 81c)] SSLAccept(ssl_id = 1937397353968 = 000001C315E18DF0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0: 81c)]   (Sid: 47) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 46) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 46) Server -> Client : 286 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 46) Client -> Server @ : 862 bytes (Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:1d7c)]   (Sid: 46) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (40f0:385c)]   (Sid: 49) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 50)  PROXIED!
+[Net An. Error    (40f0:385c)] SSLAccept(ssl_id = 1937400764560 = 000001C316159890) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:385c)]   (Sid: 49) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:414c)]   (Sid: 50) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:414c)] SSLAccept(ssl_id = 1937400739920 = 000001C316153850) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:414c)]   (Sid: 50) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 51)  PROXIED!
+[Network Analyzer (40f0:1d7c)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 49) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 50) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 48) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 46) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent UC01_03_Flights [User action                 ] StartTransactionEvent UC01_04_Vvod_info [Web Request      (40f0:1d7c)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 51) Client -> Server @ : 1345 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 51) Server -> Client : 2712 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 51) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent UC01_04_Vvod_info [Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 52)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 53)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:2314)]   (Sid: 52) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 54)  PROXIED!
+[Net An. Error    (40f0:2314)] SSLAccept(ssl_id = 1937397353968 = 000001C315E18DF0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:2314)]   (Sid: 52) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:47c4)]   (Sid: 53) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:47c4)] SSLAccept(ssl_id = 1937400733760 = 000001C316152040) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:47c4)]   (Sid: 53) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:203c)]   (Sid: 54) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:203c)] SSLAccept(ssl_id = 1937400764560 = 000001C316159890) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:203c)]   (Sid: 54) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 52) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 53) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 54) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 51) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent UC01_05_Vybor_reysa [Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid:  1) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 55)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 56)  PROXIED!
+[Web Request      (40f0:1d7c)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 55) Client -> Server @ : 1240 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 55) Server -> Client : 2999 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 55) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:4254)]   (Sid: 56) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 57)  PROXIED!
+[Net An. Error    (40f0:4254)] SSLAccept(ssl_id = 1937397353968 = 000001C315E18DF0) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:4254)]   (Sid: 56) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 58)  PROXIED!
+[Network Analyzer (40f0:4998)]   (Sid: 57) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:4998)] SSLAccept(ssl_id = 1937400733760 = 000001C316152040) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:4998)]   (Sid: 57) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 56) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 57) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 59)  PROXIED!
+[Network Analyzer (40f0: 418)]   (Sid: 59) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0: 418)] SSLAccept(ssl_id = 1937397329328 = 000001C315E12DB0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0: 418)]   (Sid: 59) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 59) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 55) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent UC01_05_Vybor_reysa [Network Analyzer (40f0:1d7c)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 60)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 61)  PROXIED!
+[Network Analyzer (40f0:4b60)]   (Sid: 60) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:4b60)] SSLAccept(ssl_id = 1937397317008 = 000001C315E0FD90) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:4b60)]   (Sid: 60) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:2d48)]   (Sid: 61) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:2d48)] SSLAccept(ssl_id = 1937397353968 = 000001C315E18DF0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:2d48)]   (Sid: 61) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 60) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 61) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 62)  PROXIED!
+[User action                 ] StartTransactionEvent UC01_06_Oplata [Network Analyzer (40f0:49d0)]   (Sid: 62) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:49d0)] SSLAccept(ssl_id = 1937397353968 = 000001C315E18DF0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:49d0)]   (Sid: 62) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 62) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 58) Client -> Server @ : 1091 bytes (Service=HTTP)
+[Web Request      (40f0:1d7c)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 58) Client -> Server @ : 331 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 58) Server -> Client : 2871 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 58) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 58) Client -> Server @ : 825 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 58) Server -> Client : 1103 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent UC01_06_Oplata [Network Analyzer (40f0:1d7c)]   (Sid: 58) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid:  4) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent UC01_07_Broni [Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 63)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 64)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 65)  PROXIED!
+[Network Analyzer (40f0:1f98)]   (Sid: 63) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:1f98)] SSLAccept(ssl_id = 1937397347808 = 000001C315E175E0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:1f98)]   (Sid: 63) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:32c0)]   (Sid: 64) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:32c0)] SSLAccept(ssl_id = 1937397310848 = 000001C315E0E580) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:32c0)]   (Sid: 64) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:32f0)]   (Sid: 65) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (40f0:1d7c)]   (Sid: 63) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 64) Connection Terminated (by Client)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:32f0)] SSLAccept(ssl_id = 1937397323168 = 000001C315E115A0) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Net An. Error    (40f0:32f0)]   (Sid: 65) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 66)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Client -> Server @ : 961 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Client -> Server @ : 943 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 65) Connection Terminated (by Client)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 66) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 67)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 67) Client -> Server @ : 926 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 67) Server -> Client : 4235 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 67) Server -> Client : 933 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 67) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 68)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 68) Client -> Server @ : 840 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 68) Server -> Client : 1031 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 68) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 69)  PROXIED!
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 64.233.164.95:443   (Service=)  (Sid= 70)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 71)  PROXIED!
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 69) Client -> Server @ : 828 bytes (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 71) Client -> Server @ : 832 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 69) Server -> Client : 1129 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 71) Server -> Client : 1040 bytes  (Service=HTTP)
+[Network Analyzer (40f0:4bec)]   (Sid: 70) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (40f0:4bec)] SSLAccept(ssl_id = 1937397329328 = 000001C315E12DB0) Failed, ctx = 000001C315DD8D30, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:4bec)]   (Sid: 70) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 72)  PROXIED!
+[Network Analyzer (40f0:1d7c)]   (Sid: 70) Connection Terminated (by Client)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 185.134.203.20:443   (Service=)  (Sid= 73)  PROXIED!
+[Network Analyzer (40f0:44d0)]   (Sid: 73) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Net An. Error    (40f0:44d0)] SSLAccept(ssl_id = 1937397329328 = 000001C315E12DB0) Failed, ctx = 000001C315EFE8C0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094416:SSL routines:ssl3_read_bytes:sslv3 alert certificate unknown
+" 
+[Net An. Error    (40f0:44d0)]   (Sid: 73) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (40f0:1d7c)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 73) Connection Terminated (by Client)
+[Network Analyzer (40f0:1d7c)]   (Sid: 71) Connection Terminated (by Server)
+[Network Analyzer (40f0:1d7c)]   (Sid: 69) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent UC01_07_Broni [User action                 ] StartTransactionEvent UC01_08_Exit [Web Request      (40f0:1d7c)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Client -> Server @ : 958 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Server -> Client : 1088 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Client -> Server @ : 840 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Server -> Client : 1884 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:1d7c)]   (Sid: 72) Connection Terminated (by Server)
+[Net An. Warning  (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (40f0:29a4)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 173.194.222.95:443   (Service=)  (Sid= 74)  PROXIED!
+[Network Analyzer (40f0:29a4)] Address lookup for LAPTOP-Q5IDFP03 = 192.168.1.134
+[Network Analyzer (40f0:29a4)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 75)  PROXIED!
+[Network Analyzer (40f0: 354)]   (Sid: 74) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (40f0: 354)]   (Sid: 74) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (40f0:1d7c)] "GET /v1/pages/ChRDaHJvbWUvMTE4LjAuNTk5My44ORIgCU35IjnBRbgwEgUN541ADhIFDc5BTHohSeE1wfpE8PA=?alt=proto"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 74) Client -> Server @ : 543 bytes (SSL)(Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /WebTours/home.html"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 75) Client -> Server @ : 936 bytes (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 75) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 74) Server -> Client : 505 bytes (SSL) (Service=HTTP)
+[Web Request      (40f0:1d7c)] "GET /v1/pages/ChRDaHJvbWUvMTE4LjAuNTk5My44ORJDCTnKWcjO4LgAEgUNa2iabhIFDU-eJ_gSBQ1jkyeHEgUNolm4SRIFDfi0_qASBQ1XaCyZEgUNbfpmySHlHrXmqaMcGA==?alt=proto"   
+[Network Analyzer (40f0:1d7c)]   (Sid: 74) Client -> Server @ : 591 bytes (SSL)(Service=HTTP)
+[Network Analyzer (40f0:1d7c)]   (Sid: 74) Server -> Client : 551 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent UC01_08_Exit [Network Analyzer (40f0:1d7c)]   (Sid: 75) Connection Terminated (by Server)

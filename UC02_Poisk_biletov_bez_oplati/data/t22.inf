@@ -1,0 +1,11 @@
+[t22]
+FileName1=t22.xml
+URL1=https://services.gismeteo.ru/inform-service/inf_chrome/forecast/?city=5089&lang=en
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_22.xml
+RequestHeaderFile=t22_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t22_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

@@ -1,0 +1,144 @@
+Virtual User Script started at: 30.10.2023 14:48:18
+Starting action vuser_init.
+Web Turbo Replay of LoadRunner 2021.0.0 for Windows 10; build 430 (џэт 05 2021 19:27:22)  	[MsgId: MMSG-26983]
+Run mode: HTML  	[MsgId: MMSG-26993]
+Replay user agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36  	[MsgId: MMSG-26988]
+Runtime Settings file: "C:\Users\admin\Documents\VuGen\Scripts\UC03_Pokypka_biletov\\default.cfg"  	[MsgId: MMSG-27141]
+Ending action vuser_init.
+Running Vuser...
+Starting iteration 1.
+Maximum number of concurrent connections per server: 6  	[MsgId: MMSG-26989]
+Starting action Action.
+Action.c(3): Notify: Transaction "03_Pokypka_biletov" started.
+Action.c(5): Notify: Transaction "03_01_Home_page" started.
+Action.c(7): web_custom_request("webtours_2") started  	[MsgId: MMSG-26355]
+Action.c(7): web_custom_request("webtours_2") was successful, 366 body bytes, 298 header bytes  	[MsgId: MMSG-26386]
+Action.c(17): web_custom_request("header.html_2") started  	[MsgId: MMSG-26355]
+Action.c(17): web_custom_request("header.html_2") was successful, 710 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(28): web_custom_request("welcome.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(28): web_custom_request("welcome.pl_2") was successful, 686 body bytes, 394 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(40): web_reg_save_param_attrib started  	[MsgId: MMSG-26355]
+Action.c(40): Registering web_reg_save_param_attrib was successful  	[MsgId: MMSG-26390]
+Action.c(48): web_custom_request("nav.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(48): Notify: Saving Parameter "userSession = 137599.554313487HAHHHHHpAHftctzzpzzctf".
+Action.c(48): web_custom_request("nav.pl_2") was successful, 1616 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(60): web_custom_request("home.html_2") started  	[MsgId: MMSG-26355]
+Action.c(60): web_custom_request("home.html_2") was successful, 1361 body bytes, 298 header bytes  	[MsgId: MMSG-26386]
+Action.c(68): Notify: Transaction "03_01_Home_page" ended with a "Pass" status (Duration: 0.5051 Wasted Time: 0.1215).
+Action.c(73): Notify: Transaction "03_02_Login" started.
+Action.c(75): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(75): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(79): web_custom_request("login.pl") started  	[MsgId: MMSG-26355]
+Action.c(79): Notify: Parameter Substitution: parameter "userSession" =  "137599.554313487HAHHHHHpAHftctzzpzzctf"
+Action.c(79): Notify: Parameter Substitution: parameter "Login" =  "Bon"
+Action.c(79): Notify: Parameter Substitution: parameter "Password" =  "Ton"
+Action.c(79): Registered web_reg_find successful for "Text=User password was correct" (count=1)  	[MsgId: MMSG-26364]
+Action.c(79): web_custom_request("login.pl") was successful, 481 body bytes, 375 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(91): web_custom_request("nav.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(91): web_custom_request("nav.pl_3") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(103): web_custom_request("login.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(103): web_custom_request("login.pl_2") was successful, 917 body bytes, 228 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(113): Notify: Transaction "03_02_Login" ended with a "Pass" status (Duration: 0.3783 Wasted Time: 0.0182).
+Action.c(118): Notify: Transaction "03_03_Flights" started.
+Action.c(121): web_custom_request("flights.gif") started  	[MsgId: MMSG-26355]
+Action.c(121): web_custom_request("flights.gif") was successful, 726 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(130): web_custom_request("in_home.gif") started  	[MsgId: MMSG-26355]
+Action.c(130): web_custom_request("in_home.gif") was successful, 688 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(139): web_custom_request("itinerary.gif") started  	[MsgId: MMSG-26355]
+Action.c(139): web_custom_request("itinerary.gif") was successful, 733 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(148): web_custom_request("signoff.gif") started  	[MsgId: MMSG-26355]
+Action.c(148): web_custom_request("signoff.gif") was successful, 751 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(160): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(160): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(165): web_custom_request("Search Flights Button") started  	[MsgId: MMSG-26355]
+Action.c(165): Registered web_reg_find successful for "Text= User has returned to the search page." (count=1)  	[MsgId: MMSG-26364]
+Action.c(165): web_custom_request("Search Flights Button") was successful, 616 body bytes, 215 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(175): web_custom_request("nav.pl_4") started  	[MsgId: MMSG-26355]
+Action.c(175): web_custom_request("nav.pl_4") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(189): web_custom_request("in_flights.gif") started  	[MsgId: MMSG-26355]
+Action.c(189): web_custom_request("in_flights.gif") was successful, 726 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(198): web_custom_request("home.gif") started  	[MsgId: MMSG-26355]
+Action.c(198): web_custom_request("home.gif") was successful, 688 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(209): web_custom_request("reservations.pl") started  	[MsgId: MMSG-26355]
+Action.c(209): web_custom_request("reservations.pl") was successful, 4246 body bytes, 255 header bytes, 19 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(220): web_custom_request("button_next.gif") started  	[MsgId: MMSG-26355]
+Action.c(220): web_custom_request("button_next.gif") was successful, 758 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(230): Notify: Transaction "03_03_Flights" ended with a "Pass" status (Duration: 0.5461 Wasted Time: 0.0608).
+Action.c(233): Notify: Transaction "03_04_Vvod_info" started.
+Action.c(239): web_reg_save_param_ex started  	[MsgId: MMSG-26355]
+Action.c(239): Registering web_reg_save_param_ex was successful  	[MsgId: MMSG-26390]
+Action.c(249): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(249): Notify: Parameter Substitution: parameter "depart" =  "Los Angeles"
+Action.c(249): Notify: Parameter Substitution: parameter "arrive" =  "Denver"
+Action.c(249): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(255): web_custom_request("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(255): Notify: Parameter Substitution: parameter "depart" =  "Los Angeles"
+Action.c(255): Notify: Parameter Substitution: parameter "arrive" =  "Denver"
+Action.c(255): Notify: Parameter Substitution: parameter "seatPref" =  "Window"
+Action.c(255): Notify: Parameter Substitution: parameter "seatType" =  "First"
+Action.c(255): Notify: Saving Parameter "outboundFlight = 300;472;10/25/2023".
+Action.c(255): Registered web_reg_find successful for "Text= from <B>Los Angeles</B> to <B>Denver</B" (count=1)  	[MsgId: MMSG-26364]
+Action.c(255): web_custom_request("reservations.pl_2") was successful, 2448 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(268): Notify: Transaction "03_04_Vvod_info" ended with a "Pass" status (Duration: 0,1867 Wasted Time: 0,0091).
+Action.c(276): Notify: Transaction "03_05_Vybor_reisov" started.
+Action.c(281): web_custom_request("reservations.pl_3") started  	[MsgId: MMSG-26355]
+Action.c(281): Notify: Parameter Substitution: parameter "outboundFlight" =  "300;472;10/25/2023"
+Action.c(281): Notify: Parameter Substitution: parameter "seatType" =  "First"
+Action.c(281): Notify: Parameter Substitution: parameter "seatPref" =  "Window"
+Action.c(281): web_custom_request("reservations.pl_3") was successful, 2713 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(293): web_reg_find started  	[MsgId: MMSG-26355]
+Action.c(293): Notify: Parameter Substitution: parameter "depart" =  "Los Angeles"
+Action.c(293): Notify: Parameter Substitution: parameter "arrive" =  "Denver"
+Action.c(293): Registering web_reg_find was successful  	[MsgId: MMSG-26390]
+Action.c(297): web_custom_request("reservations.pl_2") started  	[MsgId: MMSG-26355]
+Action.c(297): Notify: Parameter Substitution: parameter "depart" =  "Los Angeles"
+Action.c(297): Notify: Parameter Substitution: parameter "arrive" =  "Denver"
+Action.c(297): Notify: Parameter Substitution: parameter "seatPref" =  "Window"
+Action.c(297): Notify: Parameter Substitution: parameter "seatType" =  "First"
+Action.c(297): Registered web_reg_find successful for "Text= from <B>Los Angeles</B> to <B>Denver</B" (count=1)  	[MsgId: MMSG-26364]
+Action.c(297): web_custom_request("reservations.pl_2") was successful, 2448 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(308): Notify: Transaction "03_05_Vybor_reisov" ended with a "Pass" status (Duration: 0,2662 Wasted Time: 0,0129).
+Action.c(313): Notify: Transaction "03_06_Oplata" started.
+Action.c(316): web_custom_request("reservations.pl_4") started  	[MsgId: MMSG-26355]
+Action.c(316): Notify: Parameter Substitution: parameter "Login" =  "Bon"
+Action.c(316): Notify: Parameter Substitution: parameter "Password" =  "Ton"
+Action.c(316): Notify: Parameter Substitution: parameter "address1" =  "Black street"
+Action.c(316): Notify: Parameter Substitution: parameter "address2" =  "Boston"
+Action.c(316): Notify: Parameter Substitution: parameter "pass1" =  "Bon Ton"
+Action.c(316): Notify: Parameter Substitution: parameter "creditCard" =  "33333333333333333333"
+Action.c(316): Notify: Parameter Substitution: parameter "expDate" =  "10/25"
+Action.c(316): Notify: Parameter Substitution: parameter "seatType" =  "First"
+Action.c(316): Notify: Parameter Substitution: parameter "seatPref" =  "Window"
+Action.c(316): Notify: Parameter Substitution: parameter "outboundFlight" =  "300;472;10/25/2023"
+Action.c(316): web_custom_request("reservations.pl_4") was successful, 2473 body bytes, 378 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(328): web_custom_request("bookanother.gif") started  	[MsgId: MMSG-26355]
+Action.c(328): web_custom_request("bookanother.gif") was successful, 806 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(338): Notify: Transaction "03_06_Oplata" ended with a "Pass" status (Duration: 0.1561 Wasted Time: 0.0132).
+Action.c(344): Notify: Transaction "03_07_Broni" started.
+Action.c(347): web_custom_request("Itinerary Button") started  	[MsgId: MMSG-26355]
+Action.c(347): web_custom_request("Itinerary Button") was successful, 591 body bytes, 215 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(357): web_custom_request("nav.pl_5") started  	[MsgId: MMSG-26355]
+Action.c(357): web_custom_request("nav.pl_5") was successful, 1482 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(369): web_custom_request("itinerary.pl") started  	[MsgId: MMSG-26355]
+Action.c(369): web_custom_request("itinerary.pl") was successful, 26083 body bytes, 255 header bytes, 59 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(383): web_custom_request("in_itinerary.gif") started  	[MsgId: MMSG-26355]
+Action.c(383): web_custom_request("in_itinerary.gif") was successful, 733 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(394): web_custom_request("cancelreservation.gif") started  	[MsgId: MMSG-26355]
+Action.c(394): web_custom_request("cancelreservation.gif") was successful, 831 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(403): web_custom_request("cancelallreservations.gif") started  	[MsgId: MMSG-26355]
+Action.c(403): web_custom_request("cancelallreservations.gif") was successful, 742 body bytes, 297 header bytes  	[MsgId: MMSG-26386]
+Action.c(411): Notify: Transaction "03_07_Broni" ended with a "Pass" status (Duration: 0.5827 Wasted Time: 0.0462).
+Action.c(417): web_custom_request("SignOff Button") started  	[MsgId: MMSG-26355]
+Action.c(417): web_custom_request("SignOff Button") was successful, 686 body bytes, 394 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(427): web_custom_request("nav.pl_6") started  	[MsgId: MMSG-26355]
+Action.c(427): web_custom_request("nav.pl_6") was successful, 1618 body bytes, 255 header bytes, 12 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(439): web_custom_request("home.html_3") started  	[MsgId: MMSG-26355]
+Action.c(439): Retrieving data from cache for "http://localhost:1080/WebTours/home.html"  	[MsgId: MMSG-26558]
+Action.c(439): web_custom_request("home.html_3") was successful, 0 body bytes, 0 header bytes  	[MsgId: MMSG-26386]
+Action.c(448): Notify: Transaction "03_Pokypka_biletov" ended with a "Pass" status (Duration: 3.1484 Wasted Time: 0.3005).
+Ending action Action.
+Ending iteration 1.
+Ending Vuser...
+Starting action vuser_end.
+Ending action vuser_end.
+Vuser Terminated.

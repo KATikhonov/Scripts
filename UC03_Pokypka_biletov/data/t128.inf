@@ -1,0 +1,11 @@
+[t128]
+FileName1=t128_success.txt
+URL1=http://detectportal.firefox.com/success.txt?ipv6
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_128.xml
+RequestHeaderFile=t128_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t128_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

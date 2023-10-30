@@ -1,0 +1,18 @@
+[t4]
+FileName2=t3_1_webtours.png
+RawStepEndTime=0
+RequestBodyFile=t4_RequestBody.txt
+RawStepName=nav.pl
+ContentType=text/html
+URL1=http://localhost:1080/cgi-bin/nav.pl?in=home
+URL2=http://localhost:1080/webtours/images/webtours.png
+URL3=http://localhost:1080/webtours/images/hp_logo.png
+ResponseHeaderFile=t4_ResponseHeader.txt
+SnapshotXmlFile=snapshot_5.xml
+RequestHeaderFile=t4_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1698662292067
+Total=3
+StepName=Custom Request: nav.pl
+FileName1=t4.html
+FileName3=t2_0_hp_logo.png

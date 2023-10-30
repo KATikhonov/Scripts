@@ -1,0 +1,7 @@
+"{\"user\":{\"type\":\"customer\",\"platforms\":[{\"platform\":\"web\",\"active\":\"true\"}],\""
+"attributes\":{\"app_name\":\"adblockplus\",\"browser_name\":\"chrome\",\"os\":\"win\",\"langua"
+"ge_tag\":\"ru\",\"app_version\":\"3.20\",\"command_library_version\":1,\"install_type\":\"norm"
+"al\"}},\"device\":{\"type\":\"device\",\"device_id\":\"9be15fd2-9eb5-4f0e-b1eb-c84bf7caa9db\","
+"\"attributes\":{\"app_name\":\"adblockplus\",\"browser_name\":\"chrome\",\"os\":\"win\",\"lang"
+"uage_tag\":\"ru\",\"app_version\":\"3.20\",\"command_library_version\":1,\"install_type\":\"no"
+"rmal\",\"blocked_total\":0,\"license_status\":\"inactive\"}},\"events\":[]}"

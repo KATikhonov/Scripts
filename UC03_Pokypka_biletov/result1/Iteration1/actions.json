@@ -1,0 +1,198 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: webtours_2",
+                "infFile": "t1.inf",
+                "time": 1698666536001
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: header.html_2",
+                "infFile": "t2.inf",
+                "time": 1698666536056
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: welcome.pl_2",
+                "infFile": "t3.inf",
+                "time": 1698666536198
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: nav.pl_2",
+                "infFile": "t5.inf",
+                "time": 1698666536340
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: home.html_2",
+                "infFile": "t6.inf",
+                "time": 1698666536392
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: login.pl",
+                "infFile": "t7.inf",
+                "time": 1698666536577
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: nav.pl_3",
+                "infFile": "t8.inf",
+                "time": 1698666536698
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: login.pl_2",
+                "infFile": "t9.inf",
+                "time": 1698666536804
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: Search Flights Button",
+                "infFile": "t10.inf",
+                "time": 1698666537013
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: nav.pl_4",
+                "infFile": "t11.inf",
+                "time": 1698666537158
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: reservations.pl",
+                "infFile": "t12.inf",
+                "time": 1698666537344
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: reservations.pl_2",
+                "infFile": "t14.inf",
+                "time": 1698666537583
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: reservations.pl_3",
+                "infFile": "t15.inf",
+                "time": 1698666537747
+            },
+            {
+                "stepId": "STEP14",
+                "stepName": "Custom Request: reservations.pl_2",
+                "infFile": "t16.inf",
+                "time": 1698666537866
+            },
+            {
+                "stepId": "STEP15",
+                "stepName": "Custom Request: reservations.pl_4",
+                "infFile": "t17.inf",
+                "time": 1698666538061
+            },
+            {
+                "stepId": "STEP16",
+                "stepName": "Custom Request: Itinerary Button",
+                "infFile": "t18.inf",
+                "time": 1698666538259
+            },
+            {
+                "stepId": "STEP17",
+                "stepName": "Custom Request: nav.pl_5",
+                "infFile": "t19.inf",
+                "time": 1698666538418
+            },
+            {
+                "stepId": "STEP18",
+                "stepName": "Custom Request: itinerary.pl",
+                "infFile": "t20.inf",
+                "time": 1698666538566
+            },
+            {
+                "stepId": "STEP19",
+                "stepName": "Custom Request: SignOff Button",
+                "infFile": "t21.inf",
+                "time": 1698666538827
+            },
+            {
+                "stepId": "STEP20",
+                "stepName": "Custom Request: nav.pl_6",
+                "infFile": "t22.inf",
+                "time": 1698666538989
+            },
+            {
+                "stepId": "STEP21",
+                "stepName": "Custom Request: home.html_3",
+                "infFile": "t23.inf",
+                "time": 1698666539039
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "03_01_Home_page",
+                "rawStartTime": 1698666535857,
+                "rawEndTime": 1698666536407,
+                "thinkTime": 0.0,
+                "wastedTime": 0.152665376663208
+            },
+            {
+                "transactionName": "03_02_Login",
+                "rawStartTime": 1698666536440,
+                "rawEndTime": 1698666536806,
+                "thinkTime": 0.0,
+                "wastedTime": 0.018297672271728517
+            },
+            {
+                "transactionName": "03_03_Flights",
+                "rawStartTime": 1698666536837,
+                "rawEndTime": 1698666537394,
+                "thinkTime": 0.0,
+                "wastedTime": 0.06032729148864746
+            },
+            {
+                "transactionName": "03_04_Vvod_info",
+                "rawStartTime": 1698666537410,
+                "rawEndTime": 1698666537598,
+                "thinkTime": 0.0,
+                "wastedTime": 0.00881338119506836
+            },
+            {
+                "transactionName": "03_05_Vybor_reisov",
+                "rawStartTime": 1698666537630,
+                "rawEndTime": 1698666537880,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012726068496704102
+            },
+            {
+                "transactionName": "03_06_Oplata",
+                "rawStartTime": 1698666537912,
+                "rawEndTime": 1698666538102,
+                "thinkTime": 0.0,
+                "wastedTime": 0.012425899505615235
+            },
+            {
+                "transactionName": "03_07_Broni",
+                "rawStartTime": 1698666538134,
+                "rawEndTime": 1698666538665,
+                "thinkTime": 0.0,
+                "wastedTime": 0.0385589599609375
+            },
+            {
+                "transactionName": "03_08_Exit",
+                "rawStartTime": 1698666538697,
+                "rawEndTime": 1698666539042,
+                "thinkTime": 0.0,
+                "wastedTime": 0.01878523826599121
+            },
+            {
+                "transactionName": "03_Pokypka_biletov",
+                "rawStartTime": 1698666535841,
+                "rawEndTime": 1698666539062,
+                "thinkTime": 0.0,
+                "wastedTime": 0.3225998878479004
+            }
+        ]
+    }
+]

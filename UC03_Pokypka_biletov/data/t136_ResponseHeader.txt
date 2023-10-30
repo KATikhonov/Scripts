@@ -1,0 +1,9 @@
+HTTP/1.1 200 OK
+Cache-Control: max-age=0, no-cache, no-store, must-revalidate
+Content-Length: 187
+Content-Type: application/json; charset=utf-8
+Content-Security-Policy: base-uri 'self';block-all-mixed-content;default-src 'self';img-src 'self';object-src 'none';script-src 'none';style-src 'self';upgrade-insecure-requests;
+X-Cache: CONFIG_NOCACHE
+X-MSEdge-Ref: Ref A: 40B82B01231B4993AE29627D69FEF3C4 Ref B: WAW01EDGE0619 Ref C: 2023-10-22T19:51:35Z
+Date: Sun, 22 Oct 2023 19:51:34 GMT
+

@@ -1,0 +1,11 @@
+[t152]
+FileName1=t152_lookup.json
+URL1=https://history.google.com/history/api/lookup?client=web_app
+Total=1
+ContentType=application/json
+SnapshotXmlFile=snapshot_152.xml
+RequestHeaderFile=t152_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t152_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

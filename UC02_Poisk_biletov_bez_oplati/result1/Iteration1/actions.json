@@ -1,0 +1,129 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP1",
+                "stepName": "Custom Request: webtours_2",
+                "infFile": "t1.inf",
+                "time": 1698665475562
+            },
+            {
+                "stepId": "STEP2",
+                "stepName": "Custom Request: header.html_2",
+                "infFile": "t2.inf",
+                "time": 1698665475592
+            },
+            {
+                "stepId": "STEP3",
+                "stepName": "Custom Request: welcome.pl_2",
+                "infFile": "t3.inf",
+                "time": 1698665475756
+            },
+            {
+                "stepId": "STEP4",
+                "stepName": "Custom Request: nav.pl_2",
+                "infFile": "t5.inf",
+                "time": 1698665475896
+            },
+            {
+                "stepId": "STEP5",
+                "stepName": "Custom Request: home.html_2",
+                "infFile": "t6.inf",
+                "time": 1698665475964
+            },
+            {
+                "stepId": "STEP6",
+                "stepName": "Custom Request: login.pl",
+                "infFile": "t7.inf",
+                "time": 1698665476137
+            },
+            {
+                "stepId": "STEP7",
+                "stepName": "Custom Request: login.pl_2",
+                "infFile": "t8.inf",
+                "time": 1698665476305
+            },
+            {
+                "stepId": "STEP8",
+                "stepName": "Custom Request: nav.pl_3",
+                "infFile": "t9.inf",
+                "time": 1698665476435
+            },
+            {
+                "stepId": "STEP9",
+                "stepName": "Custom Request: Search Flights Button",
+                "infFile": "t10.inf",
+                "time": 1698665476747
+            },
+            {
+                "stepId": "STEP10",
+                "stepName": "Custom Request: nav.pl_4",
+                "infFile": "t11.inf",
+                "time": 1698665476890
+            },
+            {
+                "stepId": "STEP11",
+                "stepName": "Custom Request: reservations.pl",
+                "infFile": "t12.inf",
+                "time": 1698665477068
+            },
+            {
+                "stepId": "STEP12",
+                "stepName": "Custom Request: reservations.pl_2",
+                "infFile": "t14.inf",
+                "time": 1698665477303
+            },
+            {
+                "stepId": "STEP13",
+                "stepName": "Custom Request: reservations.pl_3",
+                "infFile": "t15.inf",
+                "time": 1698665477501
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "UC02_01_Home_page",
+                "rawStartTime": 1698665475425,
+                "rawEndTime": 1698665475973,
+                "thinkTime": 0.0,
+                "wastedTime": 0.1447136402130127
+            },
+            {
+                "transactionName": "UC02_02_Login",
+                "rawStartTime": 1698665476004,
+                "rawEndTime": 1698665476560,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04777956008911133
+            },
+            {
+                "transactionName": "UC02_03_Flight",
+                "rawStartTime": 1698665476591,
+                "rawEndTime": 1698665477073,
+                "thinkTime": 0.0,
+                "wastedTime": 0.026156902313232423
+            },
+            {
+                "transactionName": "UC02_04_Vvod_info",
+                "rawStartTime": 1698665477134,
+                "rawEndTime": 1698665477309,
+                "thinkTime": 0.0,
+                "wastedTime": 0.008531570434570313
+            },
+            {
+                "transactionName": "UC02_05_Vybor_reysa",
+                "rawStartTime": 1698665477341,
+                "rawEndTime": 1698665477512,
+                "thinkTime": 0.0,
+                "wastedTime": 0.005716085433959961
+            },
+            {
+                "transactionName": "UC02_Poisk_biletov_bez_oplati",
+                "rawStartTime": 1698665475410,
+                "rawEndTime": 1698665477528,
+                "thinkTime": 0.0,
+                "wastedTime": 0.24482941627502442
+            }
+        ]
+    }
+]

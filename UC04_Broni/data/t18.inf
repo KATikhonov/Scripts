@@ -1,0 +1,11 @@
+[t18]
+FileName1=t18_atom.xml
+URL1=https://mail.google.com/mail/feed/atom?zx=gmc928019675159
+Total=1
+ContentType=text/xml
+SnapshotXmlFile=snapshot_18.xml
+RequestHeaderFile=t18_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t18_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

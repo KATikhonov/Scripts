@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+Date: Fri, 27 Oct 2023 07:47:56 GMT
+Content-Type: text/xml; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Gismeteo-Timestamp: 1698392876
+X-Gismeteo-TimestampStr: 2023/10/27 07:47:56
+Access-Control-Expose-Headers: X-Gismeteo-TimestampStr, X-Gismeteo-Timestamp
+X-DC: nord.ngx-services-nord01
+Server: gis
+X-DC: nord.ngx-services-nord01
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+

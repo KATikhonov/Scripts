@@ -1,0 +1,10 @@
+GET /cgi-bin/itinerary.pl HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/welcome.pl?page=itinerary
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept-Encoding: gzip, deflate, br
+Accept-Language: ru-RU,ru;q=0.9
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MSO=SID&1698666536&MSO_JSFormSubmit1&on&MSO_ServerErrorsProb&50&MSO_ServerLoadProb&50; MTUserInfo=firstName&Bon&username&Bon&address2&Boston&hash&14&address1&Black%20street&lastName&Ton%0A
+

@@ -1,0 +1,12 @@
+HTTP/1.1 200 OK
+Im: x-bm, gzip
+X-Content-Type-Options: nosniff
+X-Country: ru
+X-Frame-Options: SAMEORIGIN
+X-Seed-Signature: MEUCIDL6/OHE9SG6XuVgaoXqMeT+CIKhweTNi1mbGVCwyeUNAiEA0KEYHHFVlPOVXwVSProR0R1ZLIwg7cihLaGllW2KFOM=
+X-Xss-Protection: 0
+Date: Fri, 27 Oct 2023 07:46:46 GMT
+Content-Type: application/x-gzip
+Transfer-Encoding: chunked
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

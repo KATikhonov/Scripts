@@ -1,0 +1,11 @@
+[t62]
+FileName1=t62_success.txt
+URL1=http://detectportal.firefox.com/success.txt?ipv6
+Total=1
+ContentType=text/plain
+SnapshotXmlFile=snapshot_62.xml
+RequestHeaderFile=t62_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t62_ResponseHeader.txt
+[ProtocolInfo]
+ProtocolId=QTWeb

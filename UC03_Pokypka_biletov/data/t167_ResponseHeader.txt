@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Date: Sun, 22 Oct 2023 19:55:21 GMT
+Server: Apache/2.2.21 (Win32)
+Last-Modified: Mon, 25 Sep 2023 19:19:47 GMT
+ETag: "200000009e030-259-60633d766bfc9"
+Accept-Ranges: bytes
+Content-Length: 601
+Keep-Alive: timeout=5, max=99
+Connection: Keep-Alive
+Content-Type: image/png
+

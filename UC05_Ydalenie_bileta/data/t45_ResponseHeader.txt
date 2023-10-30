@@ -1,0 +1,17 @@
+HTTP/1.1 200 OK
+P3P: CP="This is not a P3P policy! See g.co/p3phelp for more info."
+Vary: Origin
+Vary: X-Origin
+Vary: Referer
+Date: Sun, 29 Oct 2023 12:27:13 GMT
+Content-Type: text/html
+Server: scaffolding on HTTPServer2
+Content-Length: 0
+X-XSS-Protection: 0
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: NID=511=BGCCHIT6Ah6h86jF4jQidAHSGj7MiCccq9K8tokqyrCru-exnaWRAhYa30S6pmIz4SfWcgs1gAh7E0vdzChfLdKYhQxyOzvd8tsiZ0XTnaghssQ17V2rpdoXF-A8PSPEi7YPGHUZHLUN1NNwIoAvIZmxmMz4dNJyT20kyLh-wlA; expires=Mon, 29-Apr-2024 12:27:13 GMT; path=/; domain=.google.com; Secure; HttpOnly; SameSite=none
+Expires: Sun, 29 Oct 2023 12:27:13 GMT
+Cache-Control: private
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+

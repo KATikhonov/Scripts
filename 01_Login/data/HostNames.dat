@@ -1,0 +1,13 @@
+[hosts]
+nw-umwatson.events.data.microsoft.com=
+192.168.1.149=
+localhost=
+clientservices.googleapis.com=
+optimizationguide-pa.googleapis.com=
+clients2.google.com=
+ssl.google-analytics.com=
+accounts.google.com=
+ipm.adblockplus.dev=
+services.gismeteo.ru=
+update.googleapis.com=
+content-autofill.googleapis.com=

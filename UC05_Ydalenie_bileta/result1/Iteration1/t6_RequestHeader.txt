@@ -1,0 +1,15 @@
+GET /cgi-bin/login.pl?intro=true HTTP/1.1
+Referer: http://localhost:1080/cgi-bin/login.pl
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: same-origin
+Sec-Fetch-Dest: frame
+Upgrade-Insecure-Requests: 1
+sec-ch-ua: "Chromium";v="118", "Google Chrome";v="118", "Not=A?Brand";v="99"
+sec-ch-ua-mobile: ?0
+sec-ch-ua-platform: "Windows"
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36
+Accept: */*
+Connection: Keep-Alive
+Host: localhost:1080
+Cookie: MTUserInfo=firstName&Bon&address2&Boston&username&Bon&hash&14&lastName&Ton%0A&address1&Black%20street&creditCard&&expDate&%0A
+

@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\admin\Documents\VuGen\Scripts\UC02_Poisk_biletov_bez_oplati
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\admin\documents\vugen\scripts\uc02_poisk_biletov_bez_oplati\\logfile.log
+c:\users\admin\documents\vugen\scripts\uc02_poisk_biletov_bez_oplati\\combined_UC02_Poisk_biletov_bez_oplati.c
+c:\users\admin\documents\vugen\scripts\uc02_poisk_biletov_bez_oplati\\pre_cci.c
